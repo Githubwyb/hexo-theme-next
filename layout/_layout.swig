@@ -62,5 +62,6 @@
   {%- endif %}
 </body>
 <!-- show love when cursor click -->
+<script type="text/javascript" src="/lib/jquery-3.4.1.min.js"></script>
 <script type="text/javascript" src="/js/src/love.js"></script>
 </html>
