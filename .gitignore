@@ -13,8 +13,8 @@ source/lib/*
 !source/lib/font-awesome/
 source/lib/font-awesome/less/
 source/lib/font-awesome/scss/
-
 !source/lib/velocity/
-
+!source/lib/mathjax/
+!source/lib/mathjax-mhchem/
 !source/lib/anime.min.js
 !source/lib/jquery-3.4.1.min.js
