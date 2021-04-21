@@ -20,3 +20,4 @@ source/lib/font-awesome/scss/
 !source/lib/mathjax-mhchem/
 !source/lib/anime.min.js
 !source/lib/jquery-3.4.1.min.js
+!source/lib/medium-zoom.min.js
