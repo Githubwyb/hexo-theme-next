@@ -362,9 +362,9 @@ codeblock:
   highlight_theme: normal
   # Add copy button on codeblock
   copy_button:
-    enable: false
+    enable: true
     # Show text copy result.
-    show_result: false
+    show_result: true
     # Available values: default | flat | mac
     style:
 
@@ -373,11 +373,11 @@ back2top:
   # Back to top in sidebar.
   sidebar: false
   # Scroll percent label in b2t button.
-  scrollpercent: false
+  scrollpercent: true
 
 # Reading progress bar
 reading_progress:
-  enable: false
+  enable: true
   # Available values: top | bottom
   position: top
   color: "#37c6c0"
@@ -385,9 +385,9 @@ reading_progress:
 
 # Bookmark Support
 bookmark:
-  enable: false
+  enable: true
   # Customize the color of the bookmark.
-  color: "#222"
+  color: "#ff0000"
   # If auto, save the reading progress when closing the page or clicking the bookmark-icon.
   # If manual, only save it by clicking the bookmark-icon.
   save: auto
@@ -480,10 +480,10 @@ yandex_site_verification:
 
 # Baidu Webmaster tools verification.
 # See: https://ziyuan.baidu.com/site
-baidu_site_verification:
+baidu_site_verification: y1cfESbTt9nd3LsA
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO.
-baidu_push: false
+baidu_push: true
 
 
 # ---------------------------------------------------------------
